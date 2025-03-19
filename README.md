@@ -21,7 +21,7 @@
 ---
 
 ### 🔢 Problem-Solving
-- Solved **400+** problems on **LeetCode**
+- Solved **400+** **LeetCode** Level Problems
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/YourUsername)
 
